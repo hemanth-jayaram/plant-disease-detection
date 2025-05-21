@@ -26,6 +26,7 @@ wheels/
 env/
 venv/
 ENV/
+tensorflow_env/
 
 # IDE
 .idea/
